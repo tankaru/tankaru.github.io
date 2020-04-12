@@ -1,5 +1,5 @@
 Here's a list of tools I made related to Mapillary.
-- OpenSwitchMaps
+- [OpenSwitchMaps]()
 - OpenSwitchMaps web
 - Measure height of the object
 - Route view player
